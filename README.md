@@ -1,6 +1,6 @@
 # Primeira atividade do curso de GIT com GITHUB
 
-Atividdae realizada no dia 17 de novembro de 2.018, na Unifacs Paralela!
+Atividade realizada no dia 17 de novembro de 2.018, na Unifacs Paralela!
 
   - Desenvolvedor : Ary Ribeiro
   - Instrutor : Victor Romário
@@ -9,8 +9,8 @@ Atividdae realizada no dia 17 de novembro de 2.018, na Unifacs Paralela!
 > Página simples em HTML, com o objetivo de exemplificar alteração, criação e submissão de um projeto no GITHUB, com o GIT.
 
 Tecnologias utilizadas no projeto :
-* html
-* [GIT] (https://github.com/)
+* HTML
+* GIT (https://github.com/)
 * Markdown
 
 ### Comandos do GIT aprendidos até aqui :
@@ -23,8 +23,6 @@ $ git config --global user.email "seu email"
 
 Após a criação da pasta do projeto no computador :
 
-```sh
-
 $ cd Desktop/primeiro-projeto-git
 $ git init
 $ git status
@@ -34,9 +32,13 @@ $ git log
 ```
 
 Sumissão para o GITHUB :
-``sh
-$ git remote add origin endereçoHTTPSdo Repositório
+
+```sh
+
+$ git remote add origin endereço HTTPS Repositório
+
 $ git push -u origin master
+
 ```
 
 ### Imagem da Pagina
